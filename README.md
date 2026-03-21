@@ -11,17 +11,19 @@
 ###
 
 <p align="left">I'm Omkar, a B.Tech student from Nashik who is learning and building in tech.</p>
-<br><br>
+<br>
 <hr style="border: 1px solid #444;"/>
-###
+
 
 <h2 align="left">A little about me</h2>
 
 ###
 
 <p align="left">✨ Creating projects and learning step by step<br>📚 I'm currently exploring web development and backend technologies<br>🎯 Goals: Build strong skills and real projects<br>⚡ Fun fact: I enjoy tech, gaming, and exploring new ideas</p>
+<br>
+<hr style="border: 1px solid #444;"/>
 
-###
+
 
 <h2 align="left">Tech Stack</h2>
 
@@ -67,7 +69,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<br>
+<hr style="border: 1px solid #444;"/>
+
 
 <h2 align="left">🚀 Projects</h2>
 
@@ -83,7 +87,9 @@
 
 <p align="center">🚧 Coming Soon...🚧<br>Building something awesome 🚀</p>
 
-###
+<br>
+<hr style="border: 1px solid #444;"/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omkar-me&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=commits&order=1" height="150" alt="stats graph"  />
@@ -91,7 +97,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-me&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<br>
+<hr style="border: 1px solid #444;"/>
 
 <p align="center">
   <picture>
@@ -100,7 +107,9 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Omkar-me/Omkar-me/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-###
+<br>
+<hr style="border: 1px solid #444;"/>
+
 
 <h2 align="left">Connect with me</h2>
 
