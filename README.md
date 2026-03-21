@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5364&text=Hey,%20I'm%20Omkar%20✨&section=header&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&animation=fadeIn&stroke=000000&desc=Engineering%20student%20learning%20and%20exploring%20new%20things%20😊&descAlignY=56&fontAlignY=32))
+![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5364&text=Hey,%20I'm%20Omkar%20✨&section=header&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&animation=fadeIn&stroke=000000&desc=Engineering%20student%20learning%20and%20exploring%20new%20things%20😊&descAlignY=56&fontAlignY=32)
 
 ## Hi there 👋
 
