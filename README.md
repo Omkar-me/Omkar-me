@@ -11,7 +11,8 @@
 ###
 
 <p align="left">I'm Omkar, a B.Tech student from Nashik who is learning and building in tech.</p>
-
+<br><br>
+<hr style="border: 1px solid #444;"/>
 ###
 
 <h2 align="left">A little about me</h2>
