@@ -1,4 +1,4 @@
-a![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5364&text=Hey,%20I'm%20Omkar%20✨&section=header&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&animation=fadeIn&stroke=000000&desc=Engineering%20student%20learning%20and%20exploring%20new%20things%20😊&descAlignY=56&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5364&text=Hey,%20I'm%20Omkar%20✨&section=header&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&animation=fadeIn&stroke=000000&desc=Engineering%20student%20learning%20and%20exploring%20new%20things%20😊&descAlignY=56&fontAlignY=32)
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
@@ -90,8 +90,9 @@ a![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5
 <br>
 <hr style="border: 1px solid #444;"/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-me&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Omkar-me&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Omkar-me&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
@@ -99,9 +100,7 @@ a![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-me&theme=react-dark&hide_border=false&area=true" width="90%" alt="Activity Graph" />
-</div>
-<div align="center">
-  
+</div>  
 ###
 
 <br>
