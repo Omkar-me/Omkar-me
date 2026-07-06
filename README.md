@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5364&text=Hey,%20I'm%20Omkar%20✨&section=header&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&animation=fadeIn&stroke=000000&desc=Engineering%20student%20learning%20and%20exploring%20new%20things%20😊&descAlignY=56&fontAlignY=32)
+a![header](https://capsule-render.vercel.app/api?type=shark&height=250&color=2C5364&text=Hey,%20I'm%20Omkar%20✨&section=header&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&animation=fadeIn&stroke=000000&desc=Engineering%20student%20learning%20and%20exploring%20new%20things%20😊&descAlignY=56&fontAlignY=32)
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
@@ -102,7 +102,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-me&theme=react-dark&hide_border=false&area=true" width="90%" alt="Activity Graph" />
 </div>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omkar-me&theme=dracula&no-frame=false&no-bg=false&margin-w=8" />
+</div>
 ###
 
 <br>
