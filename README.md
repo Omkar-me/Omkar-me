@@ -35,11 +35,11 @@
 ###
 
 <div align="center">
-  <img src="./assets/icons/python.svg" height="40" alt="Python logo" />
+  <img src="./Assets/icons/python.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="./assets/icons/cplusplus.svg" height="40" alt="C++ logo" />
+  <img src="./Assets/icons/cplusplus.svg" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="./assets/icons/java.svg" height="40" alt="Java logo" />
+  <img src="./Assets/icons/java.svg" height="40" alt="Java logo" />
 </div>
 
 ###
@@ -49,11 +49,11 @@
 ###
 
 <div align="center">
-  <img src="./assets/icons/html5.svg" height="40" alt="HTML5 logo" />
+  <img src="./Assets/icons/html5.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="./assets/icons/css3.svg" height="40" alt="CSS3 logo" />
+  <img src="./Assets/icons/css3.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="./assets/icons/nodejs.svg" height="40" alt="Node.js logo" />
+  <img src="./Assets/icons/nodejs.svg" height="40" alt="Node.js logo" />
 </div>
 
 ###
@@ -63,11 +63,11 @@
 ###
 
 <div align="center">
-  <img src="./assets/icons/git.svg" height="40" alt="Git logo" />
+  <img src="./Assets/icons/git.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="./assets/icons/github.svg" height="40" alt="GitHub logo" />
+  <img src="./Assets/icons/github.svg" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="./assets/icons/vscode.svg" height="40" alt="VS Code logo" />
+  <img src="./Assets/icons/vscode.svg" height="40" alt="VS Code logo" />
 </div>
 
 
